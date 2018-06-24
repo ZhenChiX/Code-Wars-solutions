@@ -1,0 +1,19 @@
+DON'T mutate
+
+forEach
+slice
+map
+filter
+reduce
+
+
+
+
+Mutate
+
+sort
+reverse
+splice
+
+
+
